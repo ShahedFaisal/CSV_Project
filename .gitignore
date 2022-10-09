@@ -1,2 +1,5 @@
-.vscode/
-csv_project/
+.venv/
+*.PNG
+*temps*
+*.md
+*subplot*
